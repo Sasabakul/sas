@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+}
+
+body{
+  background-color: darksalmon;
+}
+
+.отступ{
+  padding: 0px 30px;
+}
+
+.O2blok{
+  float: left;
+  margin: 40px 41px;
+  height: 370px;
+  width: 232px;
+  background-color: aqua;
+  border-radius: 25px;
+  
+}
+.O3blok{
+  float: left;
+  margin: 40px 41px;
+  height: 620px;
+  width: 232px;
+  background-color: aqua;
+  border-radius: 25px;
+  
+}
+.name_1{
+  margin: 10px 5px;
+}
